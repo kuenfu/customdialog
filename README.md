@@ -14,6 +14,16 @@
   
 
 
-# use
+# Usage
+     val customDialog = CustomDialog(this)
+        customDialog.setTitle("title").setMessage("message").setOnClickBottomListener(object : CustomDialog.OnClickBottomListener {
+            override fun onPositiveClick() {
+                customDialog.dismiss()
+            }
+
+            override fun onNegtiveClick() {
+                customDialog.dismiss()
+            }
+        }).show()
 
 

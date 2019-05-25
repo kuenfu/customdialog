@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jomeiz</string>
+
+    <string name="prompt_account">請輸入帳號</string>
+    <string name="prompt_passowrd">請輸入密碼</string>
+    <string name="action_sign_in">登入</string>
+    <string name="action_sign_up">註冊</string>
+    <string name="error_invalid_account">帳號為必要資料</string>
+    <string name="error_invalid_passwordno">密碼為必要資料</string>
+    <string name="error_incorrect_account">帳號資料輸入錯誤</string>
+    <string name="setting1">setting</string>
+    <string name="setting2">car</string>
+    <string name="calllinebutton">點我開通就能擁有會員電話</string>
+    <string name="customstring_search2">搜尋</string>
+    <string name="stringage">Age:%1$s</string>
+    <string name="stringheight">Height:%1$s cm</string>
+    <string name="stringweight">Wight:%1$s kg</string>
+    <string name="stringtype">類別:%1$s </string>
+
+</resources>

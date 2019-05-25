@@ -16,14 +16,14 @@
 
 # Usage
      val customDialog = CustomDialog(this)
-        customDialog.setTitle("title").setMessage("message").setOnClickBottomListener(object : CustomDialog.OnClickBottomListener {
-            override fun onPositiveClick() {
-                customDialog.dismiss()
-            }
+     customDialog.setTitle("title").setMessage("message").setOnClickBottomListener(object : CustomDialog.OnClickBottomListener {
+         override fun onPositiveClick() {
+             customDialog.dismiss()
+         }
 
-            override fun onNegtiveClick() {
-                customDialog.dismiss()
-            }
-        }).show()
+         override fun onNegtiveClick() {
+             customDialog.dismiss()
+         }
+     }).show()
 
 

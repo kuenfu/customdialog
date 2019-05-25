@@ -26,4 +26,6 @@
          }
      }).show()
 
+# demo
 
+<img width="350" src="https://github.com/kuenfu/customdialog/blob/master/Screenshot_1558800074.png"/>
